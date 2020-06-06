@@ -100,10 +100,10 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
+                src={require("./../../assets/images/features-split-image-03.png")}
                 alt="Hero"
-                width={896}
-                height={504}
+                width={500}
+                height={300}
               />
             </a>
           </div>
@@ -111,7 +111,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
+            video="https://www.youtube.com/embed/jF2UdLgGxuw"
             videoTag="iframe"
           />
         </div>
