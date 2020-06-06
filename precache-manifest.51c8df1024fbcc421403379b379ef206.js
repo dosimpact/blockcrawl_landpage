@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f331e5d09d7273a20150cb92ca95471",
+    "revision": "8b6d761e4010b5129d48c89fc101e688",
     "url": "/blockcrawl_landpage/index.html"
   },
   {
-    "revision": "bde427e6de6526cb477c",
+    "revision": "e5d6debc5ac92ae5349c",
     "url": "/blockcrawl_landpage/static/css/main.e5a10588.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bde427e6de6526cb477c",
-    "url": "/blockcrawl_landpage/static/js/main.50fb50bf.chunk.js"
+    "revision": "e5d6debc5ac92ae5349c",
+    "url": "/blockcrawl_landpage/static/js/main.446c6229.chunk.js"
   },
   {
     "revision": "e3c7ba5a0c0080925136",

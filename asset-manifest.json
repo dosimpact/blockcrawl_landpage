@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blockcrawl_landpage/static/css/main.e5a10588.chunk.css",
-    "main.js": "/blockcrawl_landpage/static/js/main.50fb50bf.chunk.js",
-    "main.js.map": "/blockcrawl_landpage/static/js/main.50fb50bf.chunk.js.map",
+    "main.js": "/blockcrawl_landpage/static/js/main.446c6229.chunk.js",
+    "main.js.map": "/blockcrawl_landpage/static/js/main.446c6229.chunk.js.map",
     "runtime-main.js": "/blockcrawl_landpage/static/js/runtime-main.63be4016.js",
     "runtime-main.js.map": "/blockcrawl_landpage/static/js/runtime-main.63be4016.js.map",
     "static/js/2.7368e40e.chunk.js": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js",
     "static/js/2.7368e40e.chunk.js.map": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js.map",
     "index.html": "/blockcrawl_landpage/index.html",
-    "precache-manifest.aba3c2acadb8bf456cc45da66e3057d9.js": "/blockcrawl_landpage/precache-manifest.aba3c2acadb8bf456cc45da66e3057d9.js",
+    "precache-manifest.51c8df1024fbcc421403379b379ef206.js": "/blockcrawl_landpage/precache-manifest.51c8df1024fbcc421403379b379ef206.js",
     "service-worker.js": "/blockcrawl_landpage/service-worker.js",
     "static/css/main.e5a10588.chunk.css.map": "/blockcrawl_landpage/static/css/main.e5a10588.chunk.css.map",
     "static/js/2.7368e40e.chunk.js.LICENSE.txt": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.63be4016.js",
     "static/js/2.7368e40e.chunk.js",
     "static/css/main.e5a10588.chunk.css",
-    "static/js/main.50fb50bf.chunk.js"
+    "static/js/main.446c6229.chunk.js"
   ]
 }
