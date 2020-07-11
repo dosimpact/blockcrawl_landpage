@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/blockcrawl_landpage/static/css/main.e5a10588.chunk.css",
-    "main.js": "/blockcrawl_landpage/static/js/main.446c6229.chunk.js",
-    "main.js.map": "/blockcrawl_landpage/static/js/main.446c6229.chunk.js.map",
+    "main.css": "/blockcrawl_landpage/static/css/main.3a8a49df.chunk.css",
+    "main.js": "/blockcrawl_landpage/static/js/main.89670380.chunk.js",
+    "main.js.map": "/blockcrawl_landpage/static/js/main.89670380.chunk.js.map",
     "runtime-main.js": "/blockcrawl_landpage/static/js/runtime-main.63be4016.js",
     "runtime-main.js.map": "/blockcrawl_landpage/static/js/runtime-main.63be4016.js.map",
-    "static/js/2.7368e40e.chunk.js": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js",
-    "static/js/2.7368e40e.chunk.js.map": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js.map",
+    "static/js/2.153e90c1.chunk.js": "/blockcrawl_landpage/static/js/2.153e90c1.chunk.js",
+    "static/js/2.153e90c1.chunk.js.map": "/blockcrawl_landpage/static/js/2.153e90c1.chunk.js.map",
     "index.html": "/blockcrawl_landpage/index.html",
-    "precache-manifest.51c8df1024fbcc421403379b379ef206.js": "/blockcrawl_landpage/precache-manifest.51c8df1024fbcc421403379b379ef206.js",
+    "precache-manifest.95c49e6d36718b4844d693d8e599b606.js": "/blockcrawl_landpage/precache-manifest.95c49e6d36718b4844d693d8e599b606.js",
     "service-worker.js": "/blockcrawl_landpage/service-worker.js",
-    "static/css/main.e5a10588.chunk.css.map": "/blockcrawl_landpage/static/css/main.e5a10588.chunk.css.map",
-    "static/js/2.7368e40e.chunk.js.LICENSE.txt": "/blockcrawl_landpage/static/js/2.7368e40e.chunk.js.LICENSE.txt",
-    "static/media/001-plaster.svg": "/blockcrawl_landpage/static/media/001-plaster.74fe584c.svg",
-    "static/media/002-medicine.svg": "/blockcrawl_landpage/static/media/002-medicine.e7605998.svg",
+    "static/css/main.3a8a49df.chunk.css.map": "/blockcrawl_landpage/static/css/main.3a8a49df.chunk.css.map",
+    "static/js/2.153e90c1.chunk.js.LICENSE.txt": "/blockcrawl_landpage/static/js/2.153e90c1.chunk.js.LICENSE.txt",
+    "static/media/012-language learning.png": "/blockcrawl_landpage/static/media/012-language learning.5c89d187.png",
+    "static/media/017-library.png": "/blockcrawl_landpage/static/media/017-library.28e3fc83.png",
+    "static/media/023-wenibar.png": "/blockcrawl_landpage/static/media/023-wenibar.b0a12871.png",
+    "static/media/024-chemistry.png": "/blockcrawl_landpage/static/media/024-chemistry.1eb3c3ca.png",
+    "static/media/basic_data.gif": "/blockcrawl_landpage/static/media/basic_data.913df638.gif",
     "static/media/style.scss": "/blockcrawl_landpage/static/media/illustration-section-02.63d0555d.svg",
     "static/media/cutoIcon.svg": "/blockcrawl_landpage/static/media/cutoIcon.411dd3a7.svg",
-    "static/media/feature-tile-icon-06.svg": "/blockcrawl_landpage/static/media/feature-tile-icon-06.6a177696.svg",
-    "static/media/features-split-image-01.png": "/blockcrawl_landpage/static/media/features-split-image-01.d9cb99ce.png",
     "static/media/features-split-image-02.png": "/blockcrawl_landpage/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/blockcrawl_landpage/static/media/features-split-image-03.87e4d053.png",
-    "static/media/video-placeholder.jpg": "/blockcrawl_landpage/static/media/video-placeholder.a622fc5d.jpg"
+    "static/media/features-split-image-03.png": "/blockcrawl_landpage/static/media/features-split-image-03.87e4d053.png"
   },
   "entrypoints": [
     "static/js/runtime-main.63be4016.js",
-    "static/js/2.7368e40e.chunk.js",
-    "static/css/main.e5a10588.chunk.css",
-    "static/js/main.446c6229.chunk.js"
+    "static/js/2.153e90c1.chunk.js",
+    "static/css/main.3a8a49df.chunk.css",
+    "static/js/main.89670380.chunk.js"
   ]
 }
